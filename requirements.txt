@@ -1,5 +1,5 @@
 apistar==0.5.40
-uvicorn==0.2.2
+uvicorn
 gunicorn
 toolkity
 ipython==6.4.0
